@@ -5,8 +5,10 @@ if you're here its either you’re lost or you're lost.
 
 ## what i do??
 - COding for fun, usually game breaking stuff or exploits.
+- Building using F3X.
 - thats it
 - shitting
+
 
 ## tools
 - Roblox Studio 
